@@ -388,7 +388,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "ufolib-rs"
+name = "ufolib_rs"
 version = "0.1.0"
 dependencies = [
  "norad",
